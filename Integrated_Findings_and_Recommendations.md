@@ -42,7 +42,7 @@ order may contain multiple items and therefore multiple records.
   --------------------------------------------------------------------------------
   Reference file                                How it was used
   -------------------------------------------- -----------------------------------
-  `DataCoSupplyChainDataset(1).csv`            Compared raw dataset shape and
+  `DataCoSupplyChainDataset.csv`            Compared raw dataset shape and
                                                columns with the cleaned export.
 
   `DataCoSupplyChainDataset_Cleaned.csv`       Main source for recomputing the
@@ -52,7 +52,7 @@ order may contain multiple items and therefore multiple records.
                                                comparisons, and preliminary
                                                sales/profit totals.
 
-  `data_cleaning(1).ipynb`                     Reviewed cleaning decisions, column
+  `data_cleaning.ipynb`                     Reviewed cleaning decisions, column
                                                drops, duplicate/missing-value
                                                checks, and export logic.
 
