@@ -1,0 +1,2 @@
+# Company-Sales-Supply-Chain-Analytics-Late-Delivery-Risk
+Data Analytics project focused on analyzing company sales, profitability, customer behavior, product performance, and supply chain operations. Uses analytic tools to uncover business insights, evaluate delivery performance, identify operational inefficiencies, and analyze late delivery risks through interactive dashboards and data-driven analysis.
